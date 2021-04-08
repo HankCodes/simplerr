@@ -1,5 +1,5 @@
 {
-  "name": "simperr",
+  "name": "simplerr",
   "version": "1.0.0",
   "description": "A simple error handler for express",
   "main": "app.js",
