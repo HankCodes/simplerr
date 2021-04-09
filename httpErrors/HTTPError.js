@@ -1,7 +1,7 @@
 'use strict'
 
 class HTTPError extends Error {
-    constructor(code = 404, message = '404 Not found', body = {}) {
+    constructor({ code = 404, message = '404 Not found', body = {} }) {
         super(message)
 
         this._message = message

@@ -4,7 +4,7 @@
 module.exports = [
     {
         code: 400,
-        error: 'validation failed: passphrase',
+        error: 'validation',
         message: 'password wrong format'
     }
 ]

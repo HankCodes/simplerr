@@ -1,6 +1,6 @@
 {
   "name": "simplerr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple error handler for express",
   "main": "app.js",
   "scripts": {
